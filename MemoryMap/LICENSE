@@ -1,21 +1,55 @@
-MIT License
+# 非商业使用许可 · Noncommercial License
 
-Copyright (c) 2026
+版权所有 (c) 2026 MemoryMap 作者
+Copyright (c) 2026 MemoryMap authors
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+保留所有权利 / All rights reserved.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+---
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+## 你可以做这些（仅限非商业目的）
+
+- 使用、复制、修改、合并、发布、分发本软件及其副本
+- 拿它做自己的东西、改着玩、拿去学习
+
+条件是：**保留这份许可和上面的版权声明**；你改过的版本再分发时，也要用这份同样的许可。
+
+## 你不可以做这些
+
+**任何商业目的的使用，都不行。** 包括但不限于：
+
+- 把它、或者基于它改出来的东西，放进收费的产品、收费的服务里
+- 用它对外提供收费服务
+- 在公司里以营利为目的使用
+- 转卖、按次收费、订阅收费、打包进付费课程
+
+## 什么算"非商业目的"
+
+个人使用、学习、研究、教学、以及慈善机构和公共机构的使用——这些都不算商业。
+
+拿不准的时候，按"这件事有没有人靠它挣钱"来判断；还是拿不准，来问。
+
+## 想商用
+
+联系版权持有人，单独谈一份授权。
+
+## 免责
+
+本软件按"原样"提供，不附带任何明示或默示的担保，包括但不限于适销性、
+特定用途适用性和不侵权的担保。作者不对任何索赔、损害或其他责任负责。
+
+---
+
+This software may be used, copied, modified and distributed for
+**noncommercial purposes only**. Any commercial use — including
+incorporating it into a paid product or service, or using it to
+provide a paid service — requires a separate license from the
+copyright holder.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
+NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY
+CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT,
+TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
+SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
