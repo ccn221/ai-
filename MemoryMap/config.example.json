@@ -1,0 +1,39 @@
+{
+  "memory_root": "examples/notes",
+  "files": [
+    {
+      "file": "01-people.md",
+      "label": "关系"
+    },
+    {
+      "file": "02-self.md",
+      "label": "自我"
+    },
+    {
+      "file": "03-timeline.md",
+      "label": "经历"
+    },
+    {
+      "file": "04-feelings.md",
+      "label": "感受"
+    },
+    {
+      "file": "05-promises.md",
+      "label": "约定"
+    },
+    {
+      "file": "07-continue.md",
+      "label": "延续"
+    },
+    {
+      "file": "08-past.md",
+      "label": "过往"
+    },
+    {
+      "file": "09-traits.md",
+      "label": "性格"
+    }
+  ],
+  "picks_file": "picks.json",
+  "error_log": "memory_map_error.log"
+}

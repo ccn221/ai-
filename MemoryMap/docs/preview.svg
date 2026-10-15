@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="560" viewBox="0 0 900 560">
+  <rect width="900" height="560" fill="#f7f7f4"/>
+  <line x1="300" y1="300" x2="820" y2="40" stroke="#f0f0ec" stroke-width="1"/>
+  <line x1="300" y1="300" x2="820" y2="180" stroke="#f0f0ec" stroke-width="1"/>
+  <line x1="300" y1="300" x2="820" y2="320" stroke="#f0f0ec" stroke-width="1"/>
+  <line x1="300" y1="300" x2="820" y2="460" stroke="#f0f0ec" stroke-width="1"/>
+  <g stroke="#deded9" stroke-width="1" fill="none">
+    <circle cx="300" cy="300" r="110"/>
+    <circle cx="300" cy="300" r="170"/>
+    <circle cx="300" cy="300" r="230"/>
+  </g>
+  <g stroke="#deded9" stroke-width="1">
+    <line x1="300" y1="300" x2="300" y2="70"/>
+    <line x1="300" y1="300" x2="463" y2="139"/>
+    <line x1="300" y1="300" x2="530" y2="300"/>
+    <line x1="300" y1="300" x2="463" y2="461"/>
+    <line x1="300" y1="300" x2="300" y2="530"/>
+    <line x1="300" y1="300" x2="137" y2="461"/>
+    <line x1="300" y1="300" x2="70" y2="300"/>
+    <line x1="300" y1="300" x2="137" y2="139"/>
+  </g>
+  <g fill="#5f9e73">
+    <circle cx="300" cy="70" r="3.4"/><circle cx="463" cy="139" r="3.4"/>
+    <circle cx="530" cy="300" r="3.4"/><circle cx="463" cy="461" r="3.4"/>
+    <circle cx="300" cy="530" r="3.4"/><circle cx="137" cy="461" r="3.4"/>
+    <circle cx="70" cy="300" r="3.4"/><circle cx="137" cy="139" r="3.4"/>
+    <circle cx="300" cy="120" r="3.4"/><circle cx="420" cy="205" r="3.4"/>
+    <circle cx="420" cy="395" r="3.4"/><circle cx="300" cy="480" r="3.4"/>
+    <circle cx="180" cy="395" r="3.4"/><circle cx="180" cy="205" r="3.4"/>
+  </g>
+  <circle cx="300" cy="300" r="16" fill="#141618"/>
+  <text x="300" y="340" font-family="Microsoft YaHei UI, sans-serif" font-size="15" fill="#16181a" text-anchor="middle">智能体</text>
+  <g font-family="Microsoft YaHei UI, sans-serif" font-size="11" fill="#5f6368" text-anchor="middle">
+    <text x="300" y="52">关系</text><text x="478" y="132">自我</text>
+    <text x="546" y="304">经历</text><text x="478" y="477">感受</text>
+    <text x="300" y="548">约定</text><text x="122" y="477">延续</text>
+    <text x="54" y="304">过往</text><text x="122" y="132">性格</text>
+  </g>
+  <rect x="700" y="0" width="200" height="560" fill="#ffffff"/>
+  <line x1="700" y1="0" x2="700" y2="560" stroke="#e8e8e3" stroke-width="1"/>
+  <text x="726" y="60" font-family="Microsoft YaHei UI, sans-serif" font-size="12" fill="#5f6368">记 忆 详 情</text>
+  <text x="726" y="96" font-family="Microsoft YaHei UI, sans-serif" font-size="17" fill="#16181a">分节标题</text>
+  <text x="726" y="124" font-family="Microsoft YaHei UI, sans-serif" font-size="10" fill="#9aa0a6">03-timeline.md</text>
+  <text x="726" y="164" font-family="Microsoft YaHei UI, sans-serif" font-size="11" fill="#5f6368">点小球看这一段的原文。</text>
+</svg>
